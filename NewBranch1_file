@@ -1,0 +1,13 @@
+CONFIG = {
+   BuildVersion = ""
+   ConnSpeed = 0
+   LastTip   = 0
+   SpeedLevel = 0x0
+   SpeedLevel2 = 0x0
+   SpeedLevel3 = 0x0
+   LunkerNocked = 0x0
+   LegacyMode = 0
+   LegacySounds = No
+   LegacySfx = No
+   IsFirstLaunch = Yes
+}
